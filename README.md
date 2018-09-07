@@ -26,15 +26,16 @@ python3 restore_model.py
 ## Images
 
 ***Original Dataset Visualization***
-![picture](Images/Figure_1.png)
+![picture](Images/figure_1.png)
 
 ***Epoch Vs Cost***
-![picture](Images/Figure_2.png)
+![picture](Images/figure_2.png)
 
 ***Epoch Vs Train Accuracy***
-![picture](Images/Figure_3.png)
+![picture](Images/figure_3.png)
 
 ## Author
 ***Jiten Sinha***-[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
 
 ## License
+This project is licensed under MIT License.For more information read [LICENSE](https://github.com/jitensinha98/Breast-Cancer-Phase-Detection/blob/master/LICENSE).
